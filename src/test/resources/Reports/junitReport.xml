@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="125.234051">
+<testcase classname="To Validate the Target ExpectMore Payless login functionalitiy" name="To Validate the Functionality with invalid Function" time="33.648253">
+<system-out><![CDATA[Given The user should be in target  page....................................passed
+And Click the page sign button and click sign...............................passed
+When The user has to file "kamal" and "121212"..............................passed
+And The user has to click the login button..................................passed
+Then The user Should navigate to the invalid login page.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the Target ExpectMore Payless login functionalitiy" name="To Validate the Functionality with invalid Function 2" time="30.64366">
+<system-out><![CDATA[Given The user should be in target  page....................................passed
+And Click the page sign button and click sign...............................passed
+When The user has to file "nathan" and "151515".............................passed
+And The user has to click the login button..................................passed
+Then The user Should navigate to the invalid login page.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the Target ExpectMore Payless login functionalitiy" name="To Validate the Functionality with invalid Function 3" time="29.683501">
+<system-out><![CDATA[Given The user should be in target  page....................................passed
+And Click the page sign button and click sign...............................passed
+When The user has to file "jeevan" and "232343".............................passed
+And The user has to click the login button..................................passed
+Then The user Should navigate to the invalid login page.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the Target ExpectMore Payless login functionalitiy" name="To Create your account Functionality" time="31.258637">
+<system-out><![CDATA[Given The user should be in target  page....................................passed
+And Click the page sign button and click sign...............................passed
+Given Click on the page create button to click..............................passed
+When The user has to fill Emailaddress,Firstname,LastName,mobilenumber(optional)and create password.passed
+And Keep me sign in button to click.........................................passed
+Then Create an acoount button to click......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
